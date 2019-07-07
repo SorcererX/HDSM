@@ -1,0 +1,6 @@
+Hierarchical Deep Stereo Matching C++ library.
+
+This is a C++ implementation of Hierarchical Deep Stereo Matching on High Resolution Images
+(https://github.com/SorcererX/high-res-stereo).
+
+It requires PyTorch's C++ front end.
